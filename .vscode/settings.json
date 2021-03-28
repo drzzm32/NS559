@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "USBDEV.C": "cpp",
+        "Compound Dev.C": "cpp"
+    }
+}
